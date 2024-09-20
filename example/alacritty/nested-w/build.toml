@@ -1,0 +1,2 @@
+sources = ["hey"]
+target = "$XDG_CONFIG_HOME/alacritty"

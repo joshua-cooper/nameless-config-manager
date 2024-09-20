@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    nameless_config_manager::foo("example");
 }

@@ -1,0 +1,2 @@
+sources = ["config"]
+target = "$XDG_CONFIG_HOME/mako"

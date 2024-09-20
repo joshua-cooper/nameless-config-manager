@@ -1,0 +1,2 @@
+text-color = {{ colors.text }}
+background-color = {{ colors.base }}
